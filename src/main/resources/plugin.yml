@@ -1,0 +1,4 @@
+name: Utils
+version: ${project.version}
+main: me.vomet.utils.Main
+api-version: 1.16
